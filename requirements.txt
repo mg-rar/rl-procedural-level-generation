@@ -1,0 +1,4 @@
+gymnasium==0.29.1
+torch==2.3
+numpy==2.6
+pygame==2.5.2
